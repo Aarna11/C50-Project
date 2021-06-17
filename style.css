@@ -1,0 +1,20 @@
+.information{
+    font-size: large;
+    display: flex;
+    flex-flow: column;
+    background-color:#4567d6;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.object{
+    margin: 20px;
+    border:10px;
+    justify-content:center;
+    display:flex;
+    flex-wrap: wrap;
+    padding: 20;
+    flex-direction: column-reverse;
+    background-color: #006464;
+    block-size: 500px;
+    justify-self: center;
+}
